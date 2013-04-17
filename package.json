@@ -1,0 +1,24 @@
+{
+  "name": "npm-proxy",
+  "version": "1.0.0",
+  "description": "Proxy to allow talking to an internal NPM repository and fall back to the public one when a package is not found.",
+  "keywords": ['npm','proxy'],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/vincent99/npm-proxy/raw/master/LICENSE.txt"
+    }
+  ],
+
+  "bugs": {
+    "url": "http://github.com/vincent99/npm-proxy/issues",
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/vincent99/npm-proxy.git"
+  },
+
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
